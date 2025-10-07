@@ -24,6 +24,3 @@ Aqui eu tento explicar o que o projeto faz, como ele funciona (inclusive a parte
 - n8n (workflow / webhook de processamento)
 
 
-4. Abra um pull request descrevendo o que foi alterado.
-
-Se for a primeira contribuição, um README claro como este ajuda bastante — obrigado!
