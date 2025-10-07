@@ -2,8 +2,6 @@
 
 Uma aplicação web pequena e prática que gera "fundos mágicos" (backgrounds visuais) a partir de uma descrição em texto. Foi feita como projeto de aprendizado — o código é simples, claro e pensado para quem está começando, mas já com boas práticas básicas.
 
-Aqui eu tento explicar o que o projeto faz, como ele funciona (inclusive a parte do webhook no n8n).
-
 ---
 
 ## O que faz
